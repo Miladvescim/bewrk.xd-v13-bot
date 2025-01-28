@@ -1,0 +1,68 @@
+{
+  "SERVER": {
+    "ID": "1243596620659167242",
+    "Name": "Aızen ",
+    "Install": false
+  },
+  "PACKAGE": {
+    "Type": "FULL",
+    "Name": "Ruby VIP+",
+    "Desc": "Bu paket tüm özellikleri ve tüm sistemleri kapsamaktadır.",
+    "Status": false,
+    "Price": 1000,
+    "StartAt": 1721682000000,
+    "LastPayment": 1753218000000,
+    "Payments": [
+      {
+        "Id": 122037,
+        "Price": 1000,
+        "Type": "Res+",
+        "Date": 1721682000000,
+        "Payment": "CÜZDAN"
+      }
+    ]
+  },
+  "TOKENS": {
+    "Statistics": "",
+    "Voucher": "",
+    "SYNC": "",
+    "CONTROLLER":"",
+    "SECURITY": {
+      "MAIN": "",
+      "SEC_ONE": "",
+      "SEC_TWO": "",
+      "DISTS": [""
+      
+      ]
+    },
+    "WELCOME": {
+      "Active": false,
+      "WELCOMES": [
+      ""
+      ],
+      "WELCOME_CHANNELS": [  
+""
+  
+ ]
+    }
+  },
+  "botSettings": {
+    "Prefixs": [
+      ".",
+      "+",
+      "!",
+      "/",
+      "-",
+      "?",
+      "="
+    ]
+  },
+  "botStatus": {
+    "Status": "dnd",
+    "Name": "Aizen Was Here "
+  },
+  "Database": {
+    "Active": true,
+    "MongoURL": "mongodb://localhost:27017/Sgsad"
+  }
+}
